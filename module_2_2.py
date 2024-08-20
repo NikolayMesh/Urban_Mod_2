@@ -6,6 +6,3 @@ if first == second == third:
 elif first == second or first == third or second == third:
     print(2)
 else: print(0)
-
-
-print("привет")
